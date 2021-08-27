@@ -1,0 +1,16 @@
+/home/williams/Desktop/Erbaver/Multiplication/bin/Debug/net5.0/Multiplication
+/home/williams/Desktop/Erbaver/Multiplication/bin/Debug/net5.0/Multiplication.deps.json
+/home/williams/Desktop/Erbaver/Multiplication/bin/Debug/net5.0/Multiplication.runtimeconfig.json
+/home/williams/Desktop/Erbaver/Multiplication/bin/Debug/net5.0/Multiplication.runtimeconfig.dev.json
+/home/williams/Desktop/Erbaver/Multiplication/bin/Debug/net5.0/Multiplication.dll
+/home/williams/Desktop/Erbaver/Multiplication/bin/Debug/net5.0/ref/Multiplication.dll
+/home/williams/Desktop/Erbaver/Multiplication/bin/Debug/net5.0/Multiplication.pdb
+/home/williams/Desktop/Erbaver/Multiplication/obj/Debug/net5.0/Multiplication.csproj.AssemblyReference.cache
+/home/williams/Desktop/Erbaver/Multiplication/obj/Debug/net5.0/Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/williams/Desktop/Erbaver/Multiplication/obj/Debug/net5.0/Multiplication.AssemblyInfoInputs.cache
+/home/williams/Desktop/Erbaver/Multiplication/obj/Debug/net5.0/Multiplication.AssemblyInfo.cs
+/home/williams/Desktop/Erbaver/Multiplication/obj/Debug/net5.0/Multiplication.csproj.CoreCompileInputs.cache
+/home/williams/Desktop/Erbaver/Multiplication/obj/Debug/net5.0/Multiplication.dll
+/home/williams/Desktop/Erbaver/Multiplication/obj/Debug/net5.0/ref/Multiplication.dll
+/home/williams/Desktop/Erbaver/Multiplication/obj/Debug/net5.0/Multiplication.pdb
+/home/williams/Desktop/Erbaver/Multiplication/obj/Debug/net5.0/Multiplication.genruntimeconfig.cache
